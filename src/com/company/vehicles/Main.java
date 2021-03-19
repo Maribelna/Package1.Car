@@ -6,7 +6,7 @@ import com.company.professions.Person;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {//
         Driver driver = new Driver("Bob",2,3);
         Engine engine = new Engine();
         engine.setPower(34);
